@@ -1,0 +1,1 @@
+"""Brasileirão statistics explorer."""
